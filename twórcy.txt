@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- HTML Codes by Quackit.com -->
+<title>
+Twórcy zakonu</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Oto twórcy zakonu">
+<style>
+body {background-color:#0ba857;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
+h3{text-align:center;font-family:Cursive;color:#f22121;background-color:#361b1b;}
+p {text-align:center;font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:normal;color:#ff0000;background-color:#ffffff;}
+</style>
+</head>
+<body>
+<h3>Twórcy zakonu</h3>
+<p> <img src='Sansy.jpg'/>
+<p>Sans</p>
+<p>Ralsei</p>
+<p>Wolf</p>
+</body>
+</html>
